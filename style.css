@@ -90,7 +90,7 @@ body {
 }
 
 #scrollBtn:hover {
-  background-color: black;
+  background-color: #fbcd00;
 }
 
 #scrollBtn.active {
